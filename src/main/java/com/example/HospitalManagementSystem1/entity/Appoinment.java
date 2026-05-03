@@ -19,7 +19,7 @@ public class Appoinment {
 
 
     @Column(nullable = false)
-    private LocalDateTime appoinmenttime;
+    private LocalDateTime appoinment_time;
 
 
     @Column(length = 500)
